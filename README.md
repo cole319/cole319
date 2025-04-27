@@ -1,3 +1,4 @@
+#### Hi, I’m Suryarghya Saha, a Computer Science and Engineering graduate from IIT (ISM) Dhanbad. I specialize in modern web development with JavaScript, React, Node.js, and Next.js, backed by real-world experience from my backend developer internship at Unicus One. I’m passionate about building scalable apps, crafting clean APIs, and occasionally exploring blockchain technologies on the side. Always learning, always building.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryarghya-saha-286ab4147/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryar1332001@gmail.com) 
