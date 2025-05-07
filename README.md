@@ -1,5 +1,7 @@
 <p> Hi, I’m Suryarghya Saha, a Computer Science and Engineering graduate from IIT (ISM) Dhanbad. I specialize in modern web development with JavaScript, React, Node.js, and Next.js, backed by real-world experience from my backend developer internship at Unicus One. I’m passionate about building scalable apps, crafting clean APIs, and occasionally exploring blockchain technologies on the side. Always learning, always building. </p>
 
+#### [Check out my portfolio](https://suryarghya-portfolio.vercel.app/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryarghya-saha-286ab4147/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryar1332001@gmail.com) [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/demig0d33.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theodore._twombly) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/theodore_twombly) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dem_e_god) 
 
